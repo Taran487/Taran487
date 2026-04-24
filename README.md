@@ -1,2 +1,2 @@
-![GitHub Banner](images/banner2.png)
+![GitHub Banner](images/banner3.png)
 
